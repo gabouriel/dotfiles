@@ -5,7 +5,7 @@ sudo pamac install alacritty xfce4-clipman-plugin gufw pavucontrol discord xfce4
 sudo chmod a+wr /opt/spotify
 sudo chmod a+wr /opt/spotify/Apps -R
 betterdiscordctl install
-git clone 
+git clone https://github.com/gabouriel/dotfiles.git 
 cd ~/dotfiles/config
 cp nord-darker.theme.css ~/.config/BetterDiscord/themes/
 cp -r alacritty ~/.config/
