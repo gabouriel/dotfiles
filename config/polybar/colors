@@ -1,0 +1,5 @@
+[colors]
+bg = #2e3440
+fg = #dfdfdf
+fg-alt = #8fbcbb
+alert = #bd2c40
